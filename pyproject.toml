@@ -7,7 +7,6 @@ license = "GPL"
 
 [tool.poetry.dependencies]
 python = "^3.7"
-grpcio = "^1.46.1"
 
 [tool.poetry.dev-dependencies]
 black = "^22.3.0"
